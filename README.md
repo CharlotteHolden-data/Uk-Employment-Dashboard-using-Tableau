@@ -1,7 +1,7 @@
 # Uk-Employment-Dashboard-using-Tableau 📊
 
 This repository highlights the use of **Tableau** to create interactive and easy-to-read visualizations that showcase changes in UK employment over time.
-
+[Link to my dashboard](https://public.tableau.com/app/profile/charlotte.holden/viz/UK2011-2014EmploymentDashboard_17562212964990/Dashboard1)
 ## Overview
 
 Utilizing Tableau's powerful data visualization capabilities, we transformed complex employment data into intuitive graphics that effectively communicate trends and insights.
